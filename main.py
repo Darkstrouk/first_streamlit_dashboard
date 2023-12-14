@@ -1,7 +1,5 @@
 import os
 import pandas as pd
-from jupyterthemes import jtplot
-jtplot.reset()
 import streamlit as st
 import numpy as np
 import matplotlib.pyplot as plt
